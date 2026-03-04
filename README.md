@@ -1,4 +1,5 @@
-# Cheese App - Quarkus Vulnerability Testing Application
+# real-api-quarkus
+This App is a fork of realworld-api-quarkus, and was creted for the purposes of SAST scanning benchmark.
 
 ## ⚠️ WARNING
 This application contains **intentional security vulnerabilities** for testing SAST (Static Application Security Testing) scanners. **DO NOT** deploy this application in production or any publicly accessible environment.
